@@ -19,18 +19,18 @@ def monopoly_with_third_tier
 	monopoly_board ={
 		:main_line => {
 			"Red" => {
-				
+
 			},
 			"Yellow" => {
-				
+
 			},
 		},
 		:stream_line => {
 			"Blue" => {
-				
+
 			},
 			"Green" => {
-				
+
 			},
 		},
 	}
@@ -40,18 +40,18 @@ def monopoly_with_fourth_tier
 	monopoly_board ={
 		:main_line => {
 			"Red" => {
-				
+
 			},
 			"Yellow" => {
-				
+
 			},
 		},
 		:stream_line => {
 			"Blue" => {
-				
+
 			},
 			"Green" => {
-				
+
 			},
 		},
 	}
