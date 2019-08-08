@@ -6,16 +6,16 @@ end
 
 def monopoly_with_second_tier
   monopoly_board ={
-		:red_line => {
+		:first_line => {
 
 		},
-		:blue_line => {
+		:second_line => {
 
 		},
-		:pink_line => {
+		:third_line => {
 
 		},
-		:yellow_line => {
+		:fourth_line => {
 
 		},
 	}
