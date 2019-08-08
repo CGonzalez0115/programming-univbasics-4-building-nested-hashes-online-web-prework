@@ -1,22 +1,22 @@
 def base_hash
   monoploy_board = {
-		
+
 	}
 end
 
 def monopoly_with_second_tier
   monopoly_board ={
 		:red_line => {
-			
+
 		},
 		:blue_line => {
-			
+
 		},
 		:pink_line => {
-			
+
 		},
 		:yellow_line => {
-			
+
 		},
 	}
 end
